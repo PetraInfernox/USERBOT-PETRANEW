@@ -21,9 +21,11 @@ async def _(client, callback_query):
         pesan = await bot.ask(
             user_id,
             f"""
-<blockquote><b>SILAHKAN MELAKUKAN PEMBAYARAN KE NOMOR DANA OWNER</b>           
+<blockquote><b>SILAHKAN MELAKUKAN PEMBAYARAN AGAR BISA MENGGUNAKAN USERBOT</b>           
 
-DANA : ||HUB. OWNER||
+DANA : 081389190204
+GOPAY : 081389190204
+QRIS : https://n.uguu.se/TNTzBnvQ.png
 
 <b>💬 sɪʟᴀʜᴋᴀɴ ᴋɪʀɪᴍᴋᴀɴ ʙᴜᴋᴛɪ sᴄʀᴇᴇɴsʜᴏᴛ ᴘᴇᴍʙᴀʏᴀʀᴀɴ ᴀɴᴅᴀ: {full_name}</b></blockquote>
 """,
