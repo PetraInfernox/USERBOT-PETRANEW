@@ -6,7 +6,7 @@ apt update && apt upgrade -y
 git clone https://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@github.com/haikalpetra/USERBOT-PETRANEW
 ```
 ```
-cd Ubot && screen -S Ubot
+cd USERBOT-PETRANEW && screen -S USERBOT-PETRANEW
 ```
 ```
 apt install ffmpeg -y
@@ -18,7 +18,7 @@ bash installnode.sh
 apt install python3.10-venv
 ```
 ```
-python3 -m venv Ubot && source Ubot/bin/activate
+python3 -m venv USERBOT-PETRANEW && source USERBOT-PETRANEW/bin/activate
 ```
 ```
 pip3 install -r requirements.txt
@@ -27,7 +27,7 @@ pip3 install -r requirements.txt
 cp sample.env .env && nano .env
 ```
 ```
-screen -S Ubot
+screen -S USERBOT-PETRANEW
 ```
 ```
 python3 -m PyroUbot
@@ -36,13 +36,13 @@ python3 -m PyroUbot
 ---------- Menghidupan jika ubot mati -------------
 ```
 ```
-cd ubotalfnew && screen -S Ubotalfnew
+cd USERBOT-PETRANEW && screen -S USERBOT-PETRANEW
 ```
 ```
 python3 -m venv venv && source venv/bin/activate
 ```
 ```
-screen -S Ubotalfnew
+screen -S USERBOT-PETRANEW
 ```
 ```
 python3 -m PyroUbot
