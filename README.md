@@ -3,7 +3,7 @@
 apt update && apt upgrade -y
 ```
 ```
-git clone https://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@github.com/valores9/Ubot
+git clone https://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@github.com/haikalpetra/USERBOT-PETRANEW
 ```
 ```
 cd Ubot && screen -S Ubot
