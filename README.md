@@ -3,7 +3,7 @@
 apt update && apt upgrade -y
 ```
 ```
-git clone https://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@github.com/haikalpetra/USERBOT-PETRANEW
+git clone https://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@github.com/PetraInfernox/USERBOT-PETRANEW
 ```
 ```
 cd USERBOT-PETRANEW && screen -S USERBOT-PETRANEW
