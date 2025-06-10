@@ -18,6 +18,8 @@ filetype
 attrify
 uvloop
 pySmartDL
+geopy
+qrcode
 html2text
 removebg
 pySmartDL
